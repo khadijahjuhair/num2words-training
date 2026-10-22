@@ -1,5 +1,3 @@
-try and error
-try and error
-try and error
-try and error
-try and error
+Sistem Num2Words
+Version: MAIN
+Developer: Khadijah
