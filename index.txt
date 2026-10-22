@@ -1,3 +1,4 @@
 Sistem Num2Words
-Version: MAIN
+Version: DEV
 Developer: Khadijah
+Git Training Conflict: MAIN VERSION
