@@ -1,5 +1,4 @@
-try and error
-try and error
-try and error
-try and error
-try and error
+Sistem Num2Words
+Version: 2.0
+Developer: Khadijah
+Git Training Conflict: DEV VERSION
